@@ -1,0 +1,55 @@
+<html>
+<head>
+<title>Restaurant menu</title>
+<style>
+menu{
+width:400px
+height:550px
+border:4px
+margin:20px
+padding:20pxcolor:white
+font:arial
+background size:cover
+background position:center
+}
+breakfast{
+background image:url(https://images.unplash.com/photo-1504754524776-8f4f37790ca0)
+}
+lunch{
+background image:url(https://images.unplash.com/photo-1540669901-ba9599a7e63c
+}
+dinner{
+background image:url(https://images.unplash.com/photo-1544025162-d76694265947
+}
+</style>
+</head>
+<body>
+<h2>breakfast menu</h2>
+<ul>
+<li>pancakes</li>
+<li>scrambled eggs</li>
+<li>bacon</li>
+<li>toast</li>
+<li>orange juice</li>
+<li>coffe</li>
+</ul>
+<h2>lunch menu</h2>
+<ul>
+<li>cheeseburger</li>
+<li>chicken sandwich</li>
+<li>caesar salad</li>
+<li>fries</li>
+<li>iced tea</li>
+<li>lemonade</li>
+</ul>
+<h2>dinner menu</h2>
+<ul>
+<li>steak</li>
+<li>salmon</li>
+<li>pasta</li>
+<li>mashed potatoes</li>
+<li>red wine</li>
+<li>sparkling water</li>
+</ul>
+</body>
+</html>
